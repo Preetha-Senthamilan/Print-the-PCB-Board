@@ -24,7 +24,6 @@ Mach3 Mill
 16. Place it on the UV masking machine for 1 min 25 sec to develop the bare board. 
 
 # Theory
-
 Mach3 Mill is a popular software used for controlling CNC (Computer Numerical Control) milling machines. It's commonly employed in various manufacturing processes, including PCB (Printed Circuit Board) fabrication. Here's an overview of Mach3 Mill software in the context of PCB engraving, drilling, and cutting:
 
 ### Purpose:
@@ -57,17 +56,10 @@ Mach3 Mill integrates seamlessly with CAD/CAM software, allowing for efficient d
 Mach3 Mill is compatible with a wide range of CNC milling machines, including routers and engravers commonly used in PCB manufacturing. It runs on Windows-based computers and interfaces with CNC hardware through parallel port or USB connections.
 ## Implementation:
 Implementing Mach3 Mill involves installing the software on a compatible computer, configuring it to communicate with the CNC machine, and setting up parameters for the specific machining tasks required for PCB fabrication. Operators typically undergo training to familiarize themselves with the software's features and operation.
-
 ### Considerations:
 License: Mach3 Mill may require purchasing a license for full functionality, depending on the version and usage requirements.
 System Requirements: Ensure that your computer meets the minimum system requirements specified by Mach3 Mill for optimal performance.
 Safety: Follow proper safety protocols and guidelines when operating CNC machines to prevent accidents and ensure operator safety.
 Overall, Mach3 Mill software provides powerful capabilities for PCB engraving, drilling, and cutting, enabling manufacturers to achieve precise and efficient PCB fabrication processes.
-
-# Output
-
-
-
-
 # Result
 Thus the engraving,drilling, cutting and masking operation are performed to develop the bare board.
